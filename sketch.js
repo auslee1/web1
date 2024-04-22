@@ -1,4 +1,3 @@
-
 function preload(){
   img1 = loadImage("resources/media/piza.jpeg")
 }
